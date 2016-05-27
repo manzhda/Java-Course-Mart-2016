@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "/home/mda/Projects/MDA/Algorithms/JavaCourse_07.03.2016/files/source/bookstore.dtd">
+<bookstore>
+    <section name="Manuals" number="1">
+        <book id="1">
+            <title>Thinking in Java, 2nd Edition</title>
+            <author>Bruce Ekkel</author>
+            <publisher>O’Reilly</publisher>
+            <year>2000</year>
+        </book>
+        <book id="2">
+            <title>Delphi 5</title>
+            <author>S. Bobrovskij</author>
+            <publisher>Piter</publisher>
+            <year>2000</year>
+        </book>
+    </section>
+</bookstore>
