@@ -8,6 +8,7 @@ import java.util.List;
  */
 public class Contact {
     Long id;
+    Long uid ;
     String firstName;
     String lastName;
 

@@ -18,7 +18,7 @@ public class GsonMain {
 
     public static void main(String[] args) throws IOException {
 
-        String path = "parsefiles/messages.json";
+        String path = "files/messages.json";
 
         List<Message> messages = readJsonStream(new FileInputStream(path));
 

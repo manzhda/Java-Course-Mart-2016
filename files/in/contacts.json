@@ -1,0 +1,36 @@
+[
+  {
+    "uid": "7cbae8cd41a9d13892c8feb8e435c5e",
+    "firstName": "Fist User Name",
+    "lastName": "Last User Name",
+    "address":{
+      "country":"",
+      "city":"",
+      "street":"",
+      "houseNumber":"",
+      "houseSuffix":"",
+      "postCode":""
+    },
+    "phones":[],
+    "emails":["a@a.a", "b@b.b"],
+    "photoPath":"http://some_path_to_image",
+    "birthday":"1997-07-16T19:20:30+01:00"
+  },
+  {
+    "uid": "7cbae8cd41a9d13892c8feb8e435c5f",
+    "firstName": "Fist User Name",
+    "lastName": "Last User Name",
+    "address":{
+      "country":"",
+      "city":"",
+      "street":"",
+      "houseNumber":"",
+      "houseSuffix":"",
+      "postCode":""
+    },
+    "phones":[],
+    "emails":["a@a.a", "b@b.b"],
+    "photoPath":"http://some_path_to_image",
+    "birthday":"1997-07-16T19:20:30+01:00"
+  }
+]
